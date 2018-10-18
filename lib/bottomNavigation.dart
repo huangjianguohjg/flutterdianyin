@@ -19,7 +19,7 @@ class _bottomNavigationWidgetState extends State<bottomNavigationWidget> {
   @override
   void initState(){
     list
-        ..add(homePageScreen())
+        ..add(homepageScreen())
         ..add(secondPageScreen())
         ..add(thirdPageScreen())
         ..add(mineScreen());
